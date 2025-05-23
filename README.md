@@ -16,8 +16,7 @@ Welcome! I’m a passionate fullstack developer focused on building robust, scal
 
 ## 🌟 Featured Projects
 
-- **pandorAI agencie**: Next-gen AI solutions for modern businesses.
-- **AI admin**: Streamlining workflows with intelligent automation.
+- **[Pandor AI Agencie](https://pandorai.ch/)**: Next-gen AI solutions for modern businesses.
 - **[portfolio](https://negiupp.com/)**: Innovative web experiences for the digital age.
 
 ---
