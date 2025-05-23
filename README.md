@@ -1,38 +1,38 @@
-# 👋 Hi, I’m Juan S. Suarez
+# 👋 Hey, I’m Juan S. Suarez
 
-### 🚀 Fullstack Web Developer | AI Enthusiast | Muay Thai Warrior Mentality
+### 🚀 Fullstack Developer | AI Solutions Builder | Muay Thai Mindset
 
-Welcome! I’m a passionate fullstack developer focused on building robust, scalable, and intelligent web solutions. My journey is defined by a relentless drive to learn, create, and push boundaries—both in code and in life.
+Got an idea that needs to go digital?  
+Need to scale, automate, or modernize your business?
 
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React.js, Next.js, TypeScript
-- **Backend:** Python
-- **AI/Automation:** LangChain, OpenAI API, n8n
+I help founders and teams turn ideas into **functional, intelligent, and scalable web solutions**.
 
 ---
 
-## 🌟 Featured Projects
+## 💡 What I Do
 
-- **[Pandor AI Agencie](https://pandorai.ch/)**: Next-gen AI solutions for modern businesses.
-- **[portfolio](https://negiupp.com/)**: Innovative web experiences for the digital age.
+- 🛠️ **Fullstack Web Apps** (React, Next.js, TypeScript, Python)
+- 🤖 **AI & Automation** (OpenAI, LangChain, n8n)
+- ⚙️ **Fast & scalable MVPs** to validate and grow
 
----
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/juan-s-suarez/)
-- [Negiupp.com](https://negiupp.com/)
-- [Instagram](https://www.instagram.com/tianking_/)
+I bring the mindset of a fighter—focused, disciplined, and committed to delivering real results.
 
 ---
 
-## 💡 Fun Fact
+## 🌟 Projects
 
-I bring a Muay Thai warrior mentality to coding—disciplined, resilient, and always ready to conquer new challenges.
+- **[Pandor AI Agency](https://pandorai.ch/)** – AI solutions for modern businesses  
+- **[Negiupp](https://negiupp.com/)** – Creative & experimental portfolio
 
 ---
 
-Let’s connect and build something amazing together!
+## 📬 Let’s Connect
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/juan-s-suarez/)  
+- [🌐 negiupp.com](https://negiupp.com/)  
+- [📸 Instagram](https://www.instagram.com/tianking_/)
+
+---
+
+> _"I don’t just write code. I build solutions with purpose."_  
+> _Let’s launch what’s next — together._
