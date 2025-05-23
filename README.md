@@ -18,7 +18,7 @@ Welcome! I’m a passionate fullstack developer focused on building robust, scal
 
 - **pandorAI agencie**: Next-gen AI solutions for modern businesses.
 - **AI admin**: Streamlining workflows with intelligent automation.
-- **[negiupppage](https://negiupp.com/)**: Innovative web experiences for the digital age.
+- **[portfolio](https://negiupp.com/)**: Innovative web experiences for the digital age.
 
 ---
 
